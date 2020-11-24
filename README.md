@@ -3,18 +3,18 @@
 
 This is part of my game clone series, where I take a game and recreate it in Unity, challenging myself to write all the code and create all the graphical assets (except fonts) from scratch.
 
-This is a clone of an ancient puzzle game, [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi).
+This is a quick clone of an old puzzle game, [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi).
 
 ---
 
 ## Objectives
 
 ### Primary objective
-* learn about Stacks
+* [C#] learn about stacks
 
 ### Secondary objective(s)
-* learn Blender basics
-* learn how to drag gameobjects around with the mouse
+* [Blender] learn modelling basics
+* [Unity] learn how to drag gameobjects around with the mouse
 
 ---
 
